@@ -1,5 +1,4 @@
 
-
 def main():
     # File: initials.py
     # Description: a simple python scrip that prints aout my name initals by a 10x12 dimesion. using only print functions a d strings.
